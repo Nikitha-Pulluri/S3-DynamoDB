@@ -1,0 +1,100 @@
+{"product_id": "1001", "name": "Soda Can", "price": 87.2, "category": "personal_care", "stock": 311, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1002", "name": "Chocolate Bar", "price": 22.5, "category": "personal_care", "stock": 431, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1003", "name": "Chocolate Bar", "price": 71.22, "category": "personal_care", "stock": 166, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1004", "name": "Pen", "price": 46.67, "category": "electronics", "stock": 329, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1005", "name": "Energy Drink", "price": 43.47, "category": "electronics", "stock": 371, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1006", "name": "Chocolate Bar", "price": 69.92, "category": "snacks", "stock": 185, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1007", "name": "Toothpaste", "price": 3.94, "category": "beverages", "stock": 8, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1008", "name": "Energy Drink", "price": 2.54, "category": "snacks", "stock": 44, "added_on": "2025-06-01T00:00:00Z"}
+{"product_id": "1009", "name": "Chocolate Bar", "price": 34.58, "category": "snacks", "stock": 438, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1010", "name": "Toothpaste", "price": 45.8, "category": "snacks", "stock": 483, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1011", "name": "Shampoo", "price": 2.01, "category": "electronics", "stock": 19, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1012", "name": "Notebook", "price": 19.67, "category": "electronics", "stock": 359, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1013", "name": "Chocolate Bar", "price": 64.19, "category": "stationery", "stock": 129, "added_on": "2025-06-15T00:00:00Z"}
+{"product_id": "1014", "name": "Chips", "price": 13.1, "category": "beverages", "stock": 102, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1015", "name": "Pen", "price": 49.7, "category": "snacks", "stock": 48, "added_on": "2025-06-12T00:00:00Z"}
+{"product_id": "1016", "name": "Notebook", "price": 50.44, "category": "snacks", "stock": 264, "added_on": "2025-06-12T00:00:00Z"}
+{"product_id": "1017", "name": "Toothpaste", "price": 65.64, "category": "electronics", "stock": 257, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1018", "name": "Notebook", "price": 89.34, "category": "snacks", "stock": 3, "added_on": "2025-06-10T00:00:00Z"}
+{"product_id": "1019", "name": "Soda Can", "price": 9.04, "category": "stationery", "stock": 188, "added_on": "2025-06-10T00:00:00Z"}
+{"product_id": "1020", "name": "Shampoo", "price": 71.45, "category": "stationery", "stock": 369, "added_on": "2025-06-06T00:00:00Z"}
+{"product_id": "1021", "name": "Soda Can", "price": 59.03, "category": "snacks", "stock": 59, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1022", "name": "Earbuds", "price": 10.87, "category": "personal_care", "stock": 261, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1023", "name": "Shampoo", "price": 17.76, "category": "snacks", "stock": 17, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1024", "name": "Chocolate Bar", "price": 45.2, "category": "beverages", "stock": 462, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1025", "name": "Notebook", "price": 69.03, "category": "stationery", "stock": 120, "added_on": "2025-06-13T00:00:00Z"}
+{"product_id": "1026", "name": "Energy Drink", "price": 10.47, "category": "electronics", "stock": 127, "added_on": "2025-06-15T00:00:00Z"}
+{"product_id": "1027", "name": "Chips", "price": 21.44, "category": "stationery", "stock": 10, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1028", "name": "Bluetooth Speaker", "price": 35.66, "category": "stationery", "stock": 441, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1029", "name": "Shampoo", "price": 79.65, "category": "electronics", "stock": 187, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1030", "name": "Notebook", "price": 32.65, "category": "snacks", "stock": 386, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1031", "name": "Pen", "price": 66.32, "category": "stationery", "stock": 220, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1032", "name": "Chocolate Bar", "price": 66.41, "category": "snacks", "stock": 372, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1033", "name": "Notebook", "price": 94.65, "category": "electronics", "stock": 265, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1034", "name": "Chocolate Bar", "price": 54.17, "category": "snacks", "stock": 154, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1035", "name": "Energy Drink", "price": 71.72, "category": "beverages", "stock": 97, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1036", "name": "Earbuds", "price": 19.93, "category": "snacks", "stock": 15, "added_on": "2025-06-06T00:00:00Z"}
+{"product_id": "1037", "name": "Earbuds", "price": 94.56, "category": "personal_care", "stock": 487, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1038", "name": "Shampoo", "price": 14.89, "category": "stationery", "stock": 322, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1039", "name": "Pen", "price": 99.25, "category": "beverages", "stock": 82, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1040", "name": "Bluetooth Speaker", "price": 2.22, "category": "stationery", "stock": 306, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1041", "name": "Notebook", "price": 70.28, "category": "snacks", "stock": 172, "added_on": "2025-06-10T00:00:00Z"}
+{"product_id": "1042", "name": "Chocolate Bar", "price": 55.24, "category": "snacks", "stock": 220, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1043", "name": "Energy Drink", "price": 82.84, "category": "snacks", "stock": 271, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1044", "name": "Earbuds", "price": 99.62, "category": "snacks", "stock": 155, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1045", "name": "Bluetooth Speaker", "price": 23.14, "category": "personal_care", "stock": 390, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1046", "name": "Energy Drink", "price": 16.33, "category": "beverages", "stock": 182, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1047", "name": "Bluetooth Speaker", "price": 67.74, "category": "beverages", "stock": 343, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1048", "name": "Toothpaste", "price": 43.07, "category": "beverages", "stock": 244, "added_on": "2025-06-01T00:00:00Z"}
+{"product_id": "1049", "name": "Shampoo", "price": 17.7, "category": "beverages", "stock": 488, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1050", "name": "Bluetooth Speaker", "price": 75.95, "category": "stationery", "stock": 214, "added_on": "2025-06-15T00:00:00Z"}
+{"product_id": "1051", "name": "Earbuds", "price": 68.64, "category": "personal_care", "stock": 283, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1052", "name": "Bluetooth Speaker", "price": 94.74, "category": "personal_care", "stock": 496, "added_on": "2025-06-13T00:00:00Z"}
+{"product_id": "1053", "name": "Chocolate Bar", "price": 8.17, "category": "stationery", "stock": 487, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1054", "name": "Toothpaste", "price": 76.98, "category": "beverages", "stock": 320, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1055", "name": "Pen", "price": 75.73, "category": "stationery", "stock": 317, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1056", "name": "Chocolate Bar", "price": 95.11, "category": "beverages", "stock": 25, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1057", "name": "Chocolate Bar", "price": 5.55, "category": "personal_care", "stock": 250, "added_on": "2025-06-10T00:00:00Z"}
+{"product_id": "1058", "name": "Shampoo", "price": 60.11, "category": "stationery", "stock": 401, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1059", "name": "Energy Drink", "price": 82.29, "category": "snacks", "stock": 443, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1060", "name": "Chips", "price": 30.14, "category": "snacks", "stock": 147, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1061", "name": "Earbuds", "price": 66.27, "category": "electronics", "stock": 90, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1062", "name": "Chocolate Bar", "price": 81.36, "category": "beverages", "stock": 355, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1063", "name": "Notebook", "price": 89.64, "category": "stationery", "stock": 420, "added_on": "2025-06-10T00:00:00Z"}
+{"product_id": "1064", "name": "Earbuds", "price": 59.7, "category": "stationery", "stock": 73, "added_on": "2025-06-06T00:00:00Z"}
+{"product_id": "1065", "name": "Bluetooth Speaker", "price": 12.32, "category": "beverages", "stock": 455, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1066", "name": "Chocolate Bar", "price": 83.69, "category": "personal_care", "stock": 375, "added_on": "2025-06-12T00:00:00Z"}
+{"product_id": "1067", "name": "Energy Drink", "price": 26.63, "category": "snacks", "stock": 75, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1068", "name": "Soda Can", "price": 19.67, "category": "stationery", "stock": 175, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1069", "name": "Bluetooth Speaker", "price": 3.31, "category": "beverages", "stock": 438, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1070", "name": "Earbuds", "price": 61.5, "category": "stationery", "stock": 32, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1071", "name": "Bluetooth Speaker", "price": 62.22, "category": "beverages", "stock": 171, "added_on": "2025-06-12T00:00:00Z"}
+{"product_id": "1072", "name": "Earbuds", "price": 60.84, "category": "electronics", "stock": 38, "added_on": "2025-06-07T00:00:00Z"}
+{"product_id": "1073", "name": "Pen", "price": 39.96, "category": "beverages", "stock": 228, "added_on": "2025-06-12T00:00:00Z"}
+{"product_id": "1074", "name": "Toothpaste", "price": 67.43, "category": "snacks", "stock": 92, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1075", "name": "Earbuds", "price": 25.56, "category": "stationery", "stock": 208, "added_on": "2025-06-07T00:00:00Z"}
+{"product_id": "1076", "name": "Energy Drink", "price": 60.17, "category": "electronics", "stock": 429, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1077", "name": "Chocolate Bar", "price": 62.88, "category": "personal_care", "stock": 426, "added_on": "2025-06-07T00:00:00Z"}
+{"product_id": "1078", "name": "Pen", "price": 14.99, "category": "snacks", "stock": 185, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1079", "name": "Toothpaste", "price": 81.92, "category": "personal_care", "stock": 376, "added_on": "2025-06-07T00:00:00Z"}
+{"product_id": "1080", "name": "Bluetooth Speaker", "price": 21.12, "category": "electronics", "stock": 37, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1081", "name": "Pen", "price": 80.1, "category": "snacks", "stock": 411, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1082", "name": "Chocolate Bar", "price": 73.74, "category": "snacks", "stock": 262, "added_on": "2025-06-11T00:00:00Z"}
+{"product_id": "1083", "name": "Shampoo", "price": 3.14, "category": "stationery", "stock": 257, "added_on": "2025-06-09T00:00:00Z"}
+{"product_id": "1084", "name": "Pen", "price": 92.89, "category": "snacks", "stock": 116, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1085", "name": "Earbuds", "price": 74.6, "category": "stationery", "stock": 170, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1086", "name": "Earbuds", "price": 33.57, "category": "stationery", "stock": 172, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1087", "name": "Chips", "price": 95.76, "category": "personal_care", "stock": 311, "added_on": "2025-06-02T00:00:00Z"}
+{"product_id": "1088", "name": "Energy Drink", "price": 11.7, "category": "snacks", "stock": 304, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1089", "name": "Toothpaste", "price": 50.79, "category": "personal_care", "stock": 194, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1090", "name": "Energy Drink", "price": 51.75, "category": "stationery", "stock": 482, "added_on": "2025-06-08T00:00:00Z"}
+{"product_id": "1091", "name": "Bluetooth Speaker", "price": 86.41, "category": "electronics", "stock": 359, "added_on": "2025-06-15T00:00:00Z"}
+{"product_id": "1092", "name": "Earbuds", "price": 50.95, "category": "snacks", "stock": 146, "added_on": "2025-06-01T00:00:00Z"}
+{"product_id": "1093", "name": "Chocolate Bar", "price": 85.01, "category": "snacks", "stock": 281, "added_on": "2025-06-05T00:00:00Z"}
+{"product_id": "1094", "name": "Pen", "price": 9.3, "category": "stationery", "stock": 44, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1095", "name": "Soda Can", "price": 5.72, "category": "snacks", "stock": 470, "added_on": "2025-06-03T00:00:00Z"}
+{"product_id": "1096", "name": "Chips", "price": 11.44, "category": "personal_care", "stock": 453, "added_on": "2025-06-04T00:00:00Z"}
+{"product_id": "1097", "name": "Energy Drink", "price": 73.81, "category": "electronics", "stock": 227, "added_on": "2025-06-14T00:00:00Z"}
+{"product_id": "1098", "name": "Notebook", "price": 42.43, "category": "personal_care", "stock": 50, "added_on": "2025-06-07T00:00:00Z"}
+{"product_id": "1099", "name": "Soda Can", "price": 82.59, "category": "snacks", "stock": 239, "added_on": "2025-06-13T00:00:00Z"}
+{"product_id": "1100", "name": "Bluetooth Speaker", "price": 38.38, "category": "electronics", "stock": 141, "added_on": "2025-06-02T00:00:00Z"}
