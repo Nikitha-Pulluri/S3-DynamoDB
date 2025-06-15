@@ -13,9 +13,9 @@ A company receives product information from suppliers as JSON files. These files
 
 ## ⚙️ Architecture
 
-```
+
 ![ETL Architecture](Architecture.png)
-```
+
 
 ---
 
