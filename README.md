@@ -14,7 +14,7 @@ A company receives product information from suppliers as JSON files. These files
 ## ⚙️ Architecture
 
 ```
-S3 (JSON files) → Lambda (ETL logic) → DynamoDB (cleaned data)
+![ETL Architecture](Architecture.png)
 ```
 
 ---
