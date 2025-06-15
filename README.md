@@ -115,8 +115,3 @@ def lambda_handler(event, context):
 - Use AWS Glue instead of Lambda for heavier transformations.
 - Trigger SNS for success/failure notifications.
 
----
-
-## 🧾 License
-
-This project is open-source and free to use for educational and professional demonstrations.
